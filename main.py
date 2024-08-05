@@ -17,7 +17,7 @@ while ver==True:
     
     
     print("--------------------------------")
-    print(" 001:manzanas,3500")
+    print("001:manzanas,3500")
     print("002 :peras,3000")
     print("003:sandias,5000")
     print("004:banano,2000")
